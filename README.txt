@@ -1,3 +1,3 @@
 EE 386 Digital Signal Processing.
 
-This is a collection of projects from my EE 386 course taught by Professor Moussavi.
+A collection of labs that helped form an understanding of digital signal processing through the use of Matlab.
